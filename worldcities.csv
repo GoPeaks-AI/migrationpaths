@@ -1,0 +1,275 @@
+city,city_ascii,country,iso2,iso3,admin_name,capital,population,id,rank,lat,lng,location
+Kabul,Kabul,Afghanistan,AF,AFG,Kābul,primary,3678034,1004993580,1,34.5328,69.1658,Afghanistan
+Tirana,Tirana,Albania,AL,ALB,Tiranë,primary,418495,1008162156,1,41.33,19.82,Albania
+Algiers,Algiers,Algeria,DZ,DZA,Alger,primary,3415811,1012973369,1,36.7764,3.0586,Algeria
+Pago Pago,Pago Pago,American Samoa,AS,ASM,,primary,12576,1016976740,1,-14.274,-170.7046,American Samoa
+Andorra la Vella,Andorra la Vella,Andorra,AD,AND,Andorra la Vella,primary,22151,1020828846,1,42.5,1.5,Andorra
+Luanda,Luanda,Angola,AO,AGO,Luanda,primary,8417000,1024949724,1,-8.8383,13.2344,Angola
+Saint John’s,Saint John's,Antigua And Barbuda,AG,ATG,Saint John,primary,21926,1028912067,1,17.1211,-61.8447,Antigua And Barbuda
+Buenos Aires,Buenos Aires,Argentina,AR,ARG,"Buenos Aires, Ciudad Autónoma de",primary,16157000,1032717330,1,-34.5997,-58.3819,Argentina
+Yerevan,Yerevan,Armenia,AM,ARM,Yerevan,primary,1075800,1051074169,1,40.1814,44.5144,Armenia
+Oranjestad,Oranjestad,Aruba,AW,ABW,,,34980,1533513057,1,12.5186,-70.0358,Aruba
+Sydney,Sydney,Australia,AU,AUS,New South Wales,admin,5312163,1036074917,1,-33.865,151.2094,Australia
+Vienna,Vienna,Austria,AT,AUT,Wien,primary,1840573,1040261752,1,48.2083,16.3731,Austria
+Baku,Baku,Azerbaijan,AZ,AZE,Bakı,primary,2181800,1031946365,1,40.3667,49.8352,Azerbaijan
+Nassau,Nassau,"Bahamas, The",BS,BHS,,primary,274400,1044318561,1,25.0667,-77.3333,"Bahamas, The"
+Manama,Manama,Bahrain,BH,BHR,Al ‘Āşimah,primary,157474,1048989486,1,26.2167,50.5831,Bahrain
+Dhaka,Dhaka,Bangladesh,BD,BGD,Dhaka,primary,15443000,1050529279,1,23.7161,90.3961,Bangladesh
+Bridgetown,Bridgetown,Barbados,BB,BRB,Saint Michael,primary,110000,1052274244,1,13.0975,-59.6167,Barbados
+Minsk,Minsk,Belarus,BY,BLR,Minsk,primary,2020600,1112348503,1,53.9022,27.5618,Belarus
+Antwerp,Antwerp,Belgium,BE,BEL,Flanders,minor,529247,1056168623,1,51.2211,4.3997,Belgium
+Belize City,Belize City,Belize,BZ,BLZ,Belize,admin,57169,1084150679,1,17.4986,-88.1886,Belize
+Cotonou,Cotonou,Benin,BJ,BEN,Littoral,primary,762000,1204955174,1,6.4,2.52,Benin
+Hamilton,Hamilton,Bermuda,BM,BMU,Hamilton,,52320,1060000000,1,32.2942,-64.7839,Bermuda
+Thimphu,Thimphu,Bhutan,BT,BTN,Thimphu,primary,104000,1064010361,1,27.4833,89.6333,Bhutan
+Santa Cruz,Santa Cruz,Bolivia,BO,BOL,Santa Cruz,admin,3151676,1068129363,1,-17.7892,-63.1975,Bolivia
+Sarajevo,Sarajevo,Bosnia And Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",primary,275524,1070966777,1,43.8667,18.4167,Bosnia And Herzegovina
+Gaborone,Gaborone,Botswana,BW,BWA,Gaborone,primary,231626,1072756768,1,-24.6569,25.9086,Botswana
+São Paulo,Sao Paulo,Brazil,BR,BRA,São Paulo,admin,22046000,1076532519,1,-23.5504,-46.6339,Brazil
+Bandar Seri Begawan,Bandar Seri Begawan,Brunei,BN,BRN,Brunei and Muara,primary,50000,1096465895,1,4.9167,114.9167,Brunei
+Sofia,Sofia,Bulgaria,BG,BGR,Sofia-Grad,primary,1355142,1100762037,1,42.6975,23.3241,Bulgaria
+Ouagadougou,Ouagadougou,Burkina Faso,BF,BFA,Centre,primary,1626950,1854029208,1,12.3572,-1.5353,Burkina Faso
+Rangoon,Rangoon,Burma,MM,MMR,Yangon,primary,5430000,1104616656,1,16.8,96.15,Burma
+Bujumbura,Bujumbura,Burundi,BI,BDI,Bujumbura Mairie,primary,658859,1108101689,1,-3.3825,29.3611,Burundi
+Abidjan,Abidjan,Côte D’Ivoire,CI,CIV,Abidjan,primary,4980000,1384207980,1,5.3364,-4.0267,Côte D’Ivoire
+Praia,Praia,Cabo Verde,CV,CPV,Praia,primary,127832,1132398770,1,14.9177,-23.5092,Cabo Verde
+Phnom Penh,Phnom Penh,Cambodia,KH,KHM,Phnom Penh,primary,2129371,1116260534,1,11.5696,104.921,Cambodia
+Douala,Douala,Cameroon,CM,CMR,Littoral,admin,2446945,1120494607,1,4.05,9.7,Cameroon
+Toronto,Toronto,Canada,CA,CAN,Ontario,,5429524,1124279679,1,43.7417,-79.3733,Canada
+George Town,George Town,Cayman Islands,KY,CYM,,,27704,1136159124,1,19.2866,-81.3744,Cayman Islands
+Bangui,Bangui,Central African Republic,CF,CAF,Bangui,primary,734350,1140080881,1,4.3732,18.5628,Central African Republic
+N’Djamena,N'Djamena,Chad,TD,TCD,Ville de N’Djaména,primary,1092066,1148708596,1,12.11,15.05,Chad
+Santiago,Santiago,Chile,CL,CHL,Región Metropolitana,primary,7007000,1152554349,1,-33.45,-70.6667,Chile
+Shanghai,Shanghai,China,CN,CHN,Shanghai,admin,22120000,1156073548,1,31.1667,121.4667,China mainland
+Bogotá,Bogota,Colombia,CO,COL,Bogotá,primary,9464000,1170483426,1,4.6126,-74.0705,Colombia
+Moroni,Moroni,Comoros,KM,COM,Grande Comore,primary,111329,1174793581,1,-11.7036,43.2536,Comoros
+Brazzaville,Brazzaville,Congo (Brazzaville),CG,COG,Brazzaville,primary,1827000,1178340306,1,-4.2667,15.2833,Congo (Brazzaville)
+Kinshasa,Kinshasa,Congo (Kinshasa),CD,COD,Kinshasa,primary,13528000,1180000363,1,-4.3317,15.3139,Congo (Kinshasa)
+Avarua,Avarua,Cook Islands,CK,COK,,,5445,1184217570,1,-21.207,-159.771,Cook Islands
+San José,San Jose,Costa Rica,CR,CRI,San José,primary,288054,1188749877,1,9.9333,-84.0833,Costa Rica
+Zagreb,Zagreb,Croatia,HR,HRV,"Zagreb, Grad",primary,790017,1191233290,1,45.8,15.95,Croatia
+Havana,Havana,Cuba,CU,CUB,La Habana,primary,2141652,1192752771,1,23.1367,-82.3589,Cuba
+Willemstad,Willemstad,Curaçao,CW,CUW,,,150000,1531000000,1,12.1167,-68.9333,Curaçao
+Nicosia,Nicosia,Cyprus,CY,CYP,Lefkosía,primary,330000,1196944155,1,35.1725,33.365,Cyprus
+Prague,Prague,Czechia,CZ,CZE,"Praha, Hlavní Město",primary,1324277,1203744823,1,50.0833,14.4167,Czech Slovakia
+Copenhagen,Copenhagen,Denmark,DK,DNK,Hovedstaden,primary,1085000,1208763942,1,55.6786,12.5635,Denmark
+Djibouti,Djibouti,Djibouti,DJ,DJI,Djibouti,primary,562000,1262028958,1,11.595,43.1481,Djibouti
+Roseau,Roseau,Dominica,DM,DMA,Saint George,primary,16582,1212060440,1,15.3,-61.3833,Dominica
+Santo Domingo,Santo Domingo,Dominican Republic,DO,DOM,Ozama,primary,2581827,1214636202,1,18.4764,-69.8933,Dominican Republic
+Guayaquil,Guayaquil,Ecuador,EC,ECU,Guayas,admin,2723665,1218802178,1,-2.1833,-79.8833,Ecuador
+Cairo,Cairo,Egypt,EG,EGY,Al Qāhirah,primary,19372000,1818253931,1,30.0561,31.2394,Egypt
+San Salvador,San Salvador,El Salvador,SV,SLV,San Salvador,primary,567698,1222647454,1,13.6989,-89.1914,El Salvador
+Bata,Bata,Equatorial Guinea,GQ,GNQ,Litoral,admin,250770,1226528087,1,1.85,9.75,Equatorial Guinea
+Asmara,Asmara,Eritrea,ER,ERI,Ma’ākel,primary,963000,1232791236,1,15.3333,38.9167,Eritrea
+Tallinn,Tallinn,Estonia,EE,EST,Harjumaa,primary,434562,1233260021,1,59.4372,24.745,Estonia
+Addis Ababa,Addis Ababa,Ethiopia,ET,ETH,Ādīs Ābeba,primary,3041002,1231824991,1,9.0272,38.7369,Ethiopia
+Stanley,Stanley,Falkland Islands (Islas Malvinas),FK,FLK,,,2213,1238780509,1,-51.7,-57.85,Falkland Islands (Islas Malvinas)
+Tórshavn,Torshavn,Faroe Islands,FO,FRO,,,13326,1234904517,2,62,-6.7833,Faroe Islands
+Suva,Suva,Fiji,FJ,FJI,Rewa,primary,88271,1242615095,1,-18.1333,178.4333,Fiji
+Helsinki,Helsinki,Finland,FI,FIN,Uusimaa,primary,642045,1246177997,1,60.1756,24.9342,Finland
+Paris,Paris,France,FR,FRA,Île-de-France,primary,11020000,1250015082,1,48.8566,2.3522,France
+Cayenne,Cayenne,French Guiana,GF,GUF,,admin,61550,1254304969,1,4.933,-52.33,French Guiana
+Papeete,Papeete,French Polynesia,PF,PYF,Îles du Vent,,131695,1258907380,1,-17.5334,-149.5667,French Polynesia
+Libreville,Libreville,Gabon,GA,GAB,Estuaire,primary,797003,1266952885,1,0.3901,9.4544,Gabon
+Brikama,Brikama,"Gambia, The",GM,GMB,Western,admin,195136,1270953861,1,13.2804,-16.6599,"Gambia, The"
+Tbilisi,Tbilisi,Georgia,GE,GEO,Tbilisi,primary,1118035,1268203191,1,41.7225,44.7925,Georgia
+Berlin,Berlin,Germany,DE,DEU,Berlin,primary,3644826,1276451290,1,52.5167,13.3833,Germany
+Accra,Accra,Ghana,GH,GHA,Greater Accra,primary,2291352,1288299415,1,5.6037,-0.187,Ghana
+Gibraltar,Gibraltar,Gibraltar,GI,GIB,,,187083,1292385245,1,36.1324,-5.3781,Gibraltar
+Athens,Athens,Greece,GR,GRC,Attikí,primary,664046,1300715560,1,37.9794,23.7161,Greece
+Nuuk,Nuuk,Greenland,GL,GRL,Sermersooq,,18326,1304028354,1,64.175,-51.7333,Greenland
+Saint George’s,Saint George's,Grenada,GD,GRD,Saint George,primary,4315,1308891766,1,12.0444,-61.7417,Grenada
+Pointe-à-Pitre,Pointe-a-Pitre,Guadeloupe,GP,GLP,,,145511,1312460524,1,16.2415,-61.533,Guadeloupe
+Maina,Maina,Guam,GU,GUM,,,122411,1316874021,2,13.4692,144.7332,Guam
+Guatemala City,Guatemala City,Guatemala,GT,GTM,Guatemala,primary,2450212,1320197916,1,14.6099,-90.5252,Guatemala
+Conakry,Conakry,Guinea,GN,GIN,Conakry,primary,1667864,1324568159,1,9.5092,-13.7122,Guinea
+Bissau,Bissau,Guinea-Bissau,GW,GNB,Bissau,primary,395954,1624168850,1,11.8592,-15.5956,Guinea-Bissau
+Georgetown,Georgetown,Guyana,GY,GUY,Demerara-Mahaica,primary,200500,1328160906,1,6.7833,-58.1667,Guyana
+Port-au-Prince,Port-au-Prince,Haiti,HT,HTI,Ouest,primary,987310,1332401940,1,18.5425,-72.3386,Haiti
+Comayagüela,Comayaguela,Honduras,HN,HND,Francisco Morazán,,1250000,1340762485,1,14.0833,-87.2167,Honduras
+Hong Kong,Hong Kong,Hong Kong,HK,HKG,,,7347000,1344982653,1,22.305,114.185,Hong Kong
+Budapest,Budapest,Hungary,HU,HUN,Budapest,primary,1752286,1348611435,1,47.4983,19.0408,Hungary
+Reykjavík,Reykjavik,Iceland,IS,ISL,,primary,128793,1352327190,1,64.1475,-21.935,Iceland
+Delhi,Delhi,India,IN,IND,Delhi,admin,29617000,1356872604,1,28.66,77.23,India
+Jakarta,Jakarta,Indonesia,ID,IDN,Jakarta,primary,34540000,1360771077,1,-6.2146,106.8451,Indonesia
+Tehran,Tehran,Iran,IR,IRN,Tehrān,primary,13633000,1364305026,1,35.7,51.4167,Iran
+Baghdad,Baghdad,Iraq,IQ,IRQ,Baghdād,primary,5796000,1368596238,1,33.35,44.4167,Iraq
+Dublin,Dublin,Ireland,IE,IRL,Dublin,primary,1173179,1372595407,1,53.3425,-6.2658,Ireland
+Douglas,Douglas,Isle Of Man,IM,IMN,,,25000,1833688345,1,54.15,-4.4819,Isle Of Man
+Jerusalem,Jerusalem,Israel,IL,ISR,Southern,primary,919438,1376261644,1,31.7833,35.2167,Israel
+Rome,Rome,Italy,IT,ITA,Lazio,primary,2872800,1380382862,1,41.8931,12.4828,Italy
+Kingston,Kingston,Jamaica,JM,JAM,Kingston,primary,580000,1388709177,1,17.9714,-76.7931,Jamaica
+Tokyo,Tokyo,Japan,JP,JPN,Tōkyō,primary,37977000,1392685764,1,35.6897,139.6922,Japan
+Saint Helier,Saint Helier,Jersey,JE,JEY,,,33522,1832490253,1,49.1833,-2.1167,Jersey
+Amman,Amman,Jordan,JO,JOR,Al ‘Āşimah,primary,4007526,1400522593,1,31.95,35.9333,Jordan
+Almaty,Almaty,Kazakhstan,KZ,KAZ,Almaty,,1806833,1398351701,1,43.25,76.9,Kazakhstan
+Nairobi,Nairobi,Kenya,KE,KEN,Nairobi City,primary,5545000,1404000661,1,-1.2864,36.8172,Kenya
+Tarawa,Tarawa,Kiribati,KI,KIR,,primary,28802,1296152641,1,1.3382,173.0176,Kiribati
+Pyongyang,Pyongyang,"Korea, North",KP,PRK,P’yŏngyang,primary,2863000,1408738594,1,39.03,125.73,"Korea, North"
+Seoul,Seoul,"Korea, South",KR,KOR,Seoul,primary,21794000,1410836482,1,37.5833,127,"Korea, South"
+Pristina,Pristina,Kosovo,XK,XKS,Prishtinë,primary,204725,1901760068,1,42.6667,21.1667,Kosovo
+Kuwait City,Kuwait City,Kuwait,KW,KWT,Al ‘Āşimah,primary,637411,1414102075,1,29.375,47.98,Kuwait
+Bishkek,Bishkek,Kyrgyzstan,KG,KGZ,Bishkek,primary,1027200,1417191971,1,42.8667,74.5667,Kyrgyzstan
+Vientiane,Vientiane,Laos,LA,LAO,Viangchan,primary,760000,1418732714,1,17.9667,102.6,Laos
+Riga,Riga,Latvia,LV,LVA,Rīga,primary,698529,1428586192,1,56.9475,24.1069,Latvia
+Tripoli,Tripoli,Lebanon,LB,LBN,Liban-Nord,admin,530000,1422886065,1,34.4333,35.8333,Lebanon
+Maseru,Maseru,Lesotho,LS,LSO,Maseru,primary,330790,1426977668,1,-29.31,27.48,Lesotho
+Monrovia,Monrovia,Liberia,LR,LBR,Montserrado,primary,1021762,1430477826,1,6.3106,-10.8047,Liberia
+Tripoli,Tripoli,Libya,LY,LBY,Ţarābulus,primary,1126000,1434201852,1,32.8752,13.1875,Libya
+Vaduz,Vaduz,Liechtenstein,LI,LIE,Vaduz,primary,36281,1438317747,1,47.1415,9.5215,Liechtenstein
+Vilnius,Vilnius,Lithuania,LT,LTU,Vilniaus Miestas,primary,574147,1440887149,1,54.6833,25.2833,Lithuania
+Luxembourg,Luxembourg,Luxembourg,LU,LUX,Luxembourg,primary,122273,1442262731,1,49.6106,6.1328,Luxembourg
+Macau,Macau,Macau,MO,MAC,,,568700,1446227359,1,22.203,113.545,Macau
+Skopje,Skopje,Macedonia,MK,MKD,Skopje,primary,640000,1807600615,1,41.9833,21.4333,Macedonia
+Antananarivo,Antananarivo,Madagascar,MG,MDG,Antananarivo,primary,2610000,1450978461,1,-18.9386,47.5214,Madagascar
+Blantyre,Blantyre,Malawi,MW,MWI,Blantyre,admin,1895973,1454145012,1,-15.7861,35.0058,Malawi
+Kuala Lumpur,Kuala Lumpur,Malaysia,MY,MYS,Kuala Lumpur,primary,8285000,1458988644,1,3.1478,101.6953,Malaysia
+Male,Male,Maldives,MV,MDV,Maale,primary,133019,1462441685,1,4.175,73.5083,Maldives
+Bamako,Bamako,Mali,ML,MLI,Bamako,primary,2009109,1466965925,1,12.6458,-7.9922,Mali
+Birkirkara,Birkirkara,Malta,MT,MLT,Birkirkara,admin,24356,1470754290,1,35.9,14.4667,Malta
+Majuro,Majuro,Marshall Islands,MH,MHL,Majuro,primary,25400,1584000000,1,7.1167,171.3667,Marshall Islands
+Fort-de-France,Fort-de-France,Martinique,MQ,MTQ,,admin,253995,1474969110,1,14.6104,-61.08,Martinique
+Nouakchott,Nouakchott,Mauritania,MR,MRT,,primary,1077169,1478414984,2,18.0783,-15.9744,Mauritania
+Curepipe,Curepipe,Mauritius,MU,MUS,Plaines Wilhems,,299975,1480343099,1,-20.3162,57.5166,Mauritius
+Mamoudzou,Mamoudzou,Mayotte,YT,MYT,,admin,32057,1175099654,1,-12.7871,45.275,Mayotte
+Mexico City,Mexico City,Mexico,MX,MEX,Ciudad de México,primary,20996000,1484247881,1,19.4333,-99.1333,Mexico
+Palikir,Palikir,"Micronesia, Federated States Of",FM,FSM,Pohnpei,primary,6227,1583008885,1,6.9178,158.185,"Micronesia, Federated States Of"
+Chisinau,Chisinau,Moldova,MD,MDA,Chişinău,primary,685900,1498011437,1,47.0056,28.8575,Moldova
+Monaco,Monaco,Monaco,MC,MCO,,primary,36371,1492854256,1,43.7396,7.4069,Monaco
+Ulaanbaatar,Ulaanbaatar,Mongolia,MN,MNG,Ulaanbaatar,primary,1396288,1496024767,1,47.9203,106.9172,Mongolia
+Podgorica,Podgorica,Montenegro,ME,MNE,Podgorica,primary,174515,1499454516,1,42.4397,19.2661,Montenegro
+Casablanca,Casablanca,Morocco,MA,MAR,Casablanca-Settat,admin,4370000,1504175315,1,33.5992,-7.62,Morocco
+Maputo,Maputo,Mozambique,MZ,MOZ,Maputo,primary,1191613,1508074843,1,-25.9153,32.5764,Mozambique
+Windhoek,Windhoek,Namibia,NA,NAM,Khomas,primary,322500,1516802003,1,-22.57,17.0836,Namibia
+Kathmandu,Kathmandu,Nepal,NP,NPL,Bāgmatī,primary,975453,1524589448,1,27.7167,85.3667,Nepal
+The Hague,The Hague,Netherlands,NL,NLD,Zuid-Holland,primary,1406000,1528799905,1,52.08,4.27,Netherlands
+Nouméa,Noumea,New Caledonia,NC,NCL,Province Sud,,93060,1540958092,1,-22.2625,166.4443,New Caledonia
+Auckland,Auckland,New Zealand,NZ,NZL,Auckland,admin,1467800,1554435911,1,-36.85,174.7833,New Zealand
+Managua,Managua,Nicaragua,NI,NIC,Managua,primary,1028808,1558296252,1,12.15,-86.2667,Nicaragua
+Niamey,Niamey,Niger,NE,NER,Niamey,primary,1026848,1562932886,1,13.5086,2.1111,Niger
+Lagos,Lagos,Nigeria,NG,NGA,Lagos,minor,15279000,1566593751,1,6.45,3.4,Nigeria
+Capitol Hill,Capitol Hill,Northern Mariana Islands,MP,MNP,,primary,2500,1580556972,1,15.2137,145.7546,Northern Mariana Islands
+Oslo,Oslo,Norway,NO,NOR,Oslo,primary,693494,1578324706,1,59.9111,10.7528,Norway
+Muscat,Muscat,Oman,OM,OMN,Masqaţ,primary,1421409,1512035506,1,23.6139,58.5922,Oman
+Karachi,Karachi,Pakistan,PK,PAK,Sindh,admin,14835000,1586129469,1,24.86,67.01,Pakistan
+Koror,Koror,Palau,PW,PLW,,,8744,1585174728,1,7.3433,134.4804,Palau
+Panama City,Panama City,Panama,PA,PAN,Panamá,primary,880691,1591672475,1,9,-79.5,Panama
+Port Moresby,Port Moresby,Papua New Guinea,PG,PNG,National Capital,primary,364125,1598685395,1,-9.4789,147.1494,Papua New Guinea
+Asunción,Asuncion,Paraguay,PY,PRY,Asunción,primary,1870000,1600057911,1,-25.3,-57.6333,Paraguay
+Lima,Lima,Peru,PE,PER,Lima,primary,9848000,1604728603,1,-12.05,-77.0333,Peru
+Manila,Manila,Philippines,PH,PHL,Manila,primary,23088000,1608618140,1,14.5958,120.9772,Philippines
+Warsaw,Warsaw,Poland,PL,POL,Mazowieckie,primary,1790658,1616024847,1,52.2167,21.0333,Poland
+Lisbon,Lisbon,Portugal,PT,PRT,Lisboa,primary,506654,1620619017,1,38.7452,-9.1604,Portugal
+San Juan,San Juan,Puerto Rico,PR,PRI,Puerto Rico,,331165,1630035577,1,18.4037,-66.0636,Puerto Rico
+Doha,Doha,Qatar,QA,QAT,Ad Dawḩah,primary,1312947,1634459660,1,25.3,51.5333,Qatar
+Saint-Denis,Saint-Denis,Reunion,RE,REU,,admin,190047,1638024662,1,-20.8789,55.4481,Reunion
+Bucharest,Bucharest,Romania,RO,ROU,Bucureşti,primary,1883425,1642414442,1,44.4,26.0833,Romania
+Moscow,Moscow,Russia,RU,RUS,Moskva,primary,17125000,1643318494,1,55.7558,37.6178,Russia
+Kigali,Kigali,Rwanda,RW,RWA,Kigali,primary,745261,1646923541,1,-1.9536,30.0606,Rwanda
+Georgetown,Georgetown,"Saint Helena, Ascension, And Tristan Da Cunha",SH,SHN,Ascension,admin,,1654363572,1,-7.9286,-14.4119,"Saint Helena, Ascension, And Tristan Da Cunha"
+Basseterre,Basseterre,Saint Kitts And Nevis,KN,KNA,Saint George Basseterre,primary,13220,1659198919,1,17.2983,-62.7342,Saint Kitts And Nevis
+Castries,Castries,Saint Lucia,LC,LCA,Castries,primary,70000,1662922505,1,14.0167,-60.9833,Saint Lucia
+Kingstown,Kingstown,Saint Vincent And The Grenadines,VC,VCT,Saint George,primary,25418,1670376659,1,13.1667,-61.2333,Saint Vincent And The Grenadines
+Apia,Apia,Samoa,WS,WSM,Tuamasaga,primary,37708,1882489296,1,-13.8333,-171.8333,Samoa
+San Marino,San Marino,San Marino,SM,SMR,San Marino Città,primary,4040,1674741947,1,43.932,12.4484,San Marino
+São Tomé,Sao Tome,Sao Tome And Principe,ST,STP,São Tomé,primary,56166,1678301324,1,0.3333,6.7333,Sao Tome And Principe
+Riyadh,Riyadh,Saudi Arabia,SA,SAU,Ar Riyāḑ,primary,6881000,1682999334,1,24.65,46.71,Saudi Arabia
+Dakar,Dakar,Senegal,SN,SEN,Dakar,primary,1146053,1686604760,1,14.7319,-17.4572,Senegal
+Belgrade,Belgrade,Serbia,RS,SRB,Beograd,primary,1378682,1688374696,1,44.8167,20.4667,Serbia
+Victoria,Victoria,Seychelles,SC,SYC,English River,primary,26450,1690193579,1,-4.6236,55.4544,Seychelles
+Freetown,Freetown,Sierra Leone,SL,SLE,Western Area,primary,951000,1694085071,1,8.4833,-13.2331,Sierra Leone
+Singapore,Singapore,Singapore,SG,SGP,Central Singapore,primary,5745000,1702341327,1,1.3,103.8,Singapore
+Bratislava,Bratislava,Slovakia,SK,SVK,Bratislavský,primary,429564,1703195001,1,48.1447,17.1128,Slovakia
+Ljubljana,Ljubljana,Slovenia,SI,SVN,Ljubljana,primary,284355,1705917455,1,46.05,14.5167,Slovenia
+Honiara,Honiara,Solomon Islands,SB,SLB,Honiara,primary,84520,1090737486,1,-9.4333,159.95,Solomon Islands
+Mogadishu,Mogadishu,Somalia,SO,SOM,Banaadir,primary,2120000,1706893395,1,2.0408,45.3425,Somalia
+Johannesburg,Johannesburg,South Africa,ZA,ZAF,Gauteng,admin,4434827,1710550792,1,-26.2044,28.0416,South Africa
+Grytviken,Grytviken,South Georgia And South Sandwich Islands,GS,SGS,,,99,1239048837,1,-54.2806,-36.508,South Georgia And South Sandwich Islands
+Juba,Juba,South Sudan,SS,SSD,Central Equatoria,primary,372410,1728444337,1,4.85,31.6,South Sudan
+Barcelona,Barcelona,Spain,ES,ESP,Catalonia,admin,4588000,1724594040,1,41.3825,2.1769,Spain
+Colombo,Colombo,Sri Lanka,LK,LKA,Western,primary,752993,1144251314,1,6.9167,79.8333,Sri Lanka
+Khartoum,Khartoum,Sudan,SD,SDN,Khartoum,primary,7282000,1729268475,1,15.6031,32.5265,Sudan
+Paramaribo,Paramaribo,Suriname,SR,SUR,Paramaribo,primary,223757,1740518660,1,5.8667,-55.1667,Suriname
+Manzini,Manzini,Swaziland,SZ,SWZ,Manzini,admin,110508,1748177431,1,-26.4833,31.3667,Swaziland
+Stockholm,Stockholm,Sweden,SE,SWE,Stockholm,primary,972647,1752425602,1,59.3294,18.0686,Sweden
+Zürich,Zurich,Switzerland,CH,CHE,Zürich,admin,434008,1756539143,1,47.3786,8.54,Switzerland
+Aleppo,Aleppo,Syria,SY,SYR,Ḩalab,admin,1834093,1760366651,1,36.2,37.15,Syria
+Taichung,Taichung,Taiwan,TW,TWN,Taichung,admin,2803894,1158689622,1,24.15,120.6667,Taiwan
+Dushanbe,Dushanbe,Tajikistan,TJ,TJK,Dushanbe,primary,780000,1762930616,1,38.5731,68.7864,Tajikistan
+Dar es Salaam,Dar es Salaam,Tanzania,TZ,TZA,Dar es Salaam,primary,6698000,1834843853,1,-6.8,39.2833,Tanzania
+Bangkok,Bangkok,Thailand,TH,THA,Krung Thep Maha Nakhon,primary,17066000,1764068610,1,13.75,100.5167,Thailand
+Dili,Dili,Timor-Leste,TL,TLS,Díli,primary,222323,1626308942,1,-8.5586,125.5736,Timor-Leste
+Lomé,Lome,Togo,TG,TGO,Maritime,primary,837437,1768409132,1,6.1319,1.2228,Togo
+Nuku‘alofa,Nuku`alofa,Tonga,TO,TON,Tongatapu,primary,24571,1776737461,1,-21.1347,-175.2083,Tonga
+Chaguanas,Chaguanas,Trinidad And Tobago,TT,TTO,Chaguanas,admin,83489,1780795054,1,10.5144,-61.4075,Trinidad And Tobago
+Tunis,Tunis,Tunisia,TN,TUN,Tunis,primary,1200000,1788742103,1,36.8008,10.18,Tunisia
+Istanbul,Istanbul,Turkey,TR,TUR,İstanbul,admin,15154000,1792756324,1,41.01,28.9603,Turkey
+Ashgabat,Ashgabat,Turkmenistan,TM,TKM,Ahal,primary,1031992,1795049992,1,37.95,58.3833,Turkmenistan
+Grand Turk,Grand Turk,Turks And Caicos Islands,TC,TCA,,,5801,1796965313,1,21.4664,-71.136,Turks And Caicos Islands
+Funafuti,Funafuti,Tuvalu,TV,TUV,Funafuti,primary,6025,1798251391,1,-8.5167,179.2167,Tuvalu
+Kampala,Kampala,Uganda,UG,UGA,Kampala,primary,1659600,1800406299,1,0.3136,32.5811,Uganda
+Kyiv,Kyiv,Ukraine,UA,UKR,"Kyyiv, Misto",primary,2967000,1804382913,1,50.45,30.5236,Ukraine
+Dubai,Dubai,United Arab Emirates,AE,ARE,Dubayy,admin,2502715,1784736618,1,25.2697,55.3094,United Arab Emirates
+London,London,United Kingdom,GB,GBR,"London, City of",primary,10979000,1826645935,1,51.5072,-0.1275,United Kingdom
+Birmingham,Birmingham,United States,US,USA,Alabama,,739573,1840006507,1,33.5277,-86.7987,AL
+Anchorage,Anchorage,United States,US,USA,Alaska,,247949,1840023385,1,61.1508,-149.1091,AK
+Phoenix,Phoenix,United States,US,USA,Arizona,admin,4219697,1840020568,1,33.5722,-112.0891,AZ
+Little Rock,Little Rock,United States,US,USA,Arkansas,admin,439815,1840015509,1,34.7256,-92.3576,AR
+Los Angeles,Los Angeles,United States,US,USA,California,,12750807,1840020491,1,34.1139,-118.4068,CA
+Denver,Denver,United States,US,USA,Colorado,admin,2876625,1840018789,1,39.7621,-104.8759,CO
+Bridgeport,Bridgeport,United States,US,USA,Connecticut,,924449,1840004836,1,41.1918,-73.1953,CT
+Dover,Dover,United States,US,USA,Delaware,,117282,1840005810,1,39.161,-75.5203,DE
+Washington,Washington,United States,US,USA,District of Columbia,primary,5379184,1840006060,1,38.9047,-77.0163,DC
+Miami,Miami,United States,US,USA,Florida,,6445545,1840015149,1,25.7839,-80.2102,FL
+Atlanta,Atlanta,United States,US,USA,Georgia,admin,5449398,1840013660,1,33.7627,-84.4224,GA
+Honolulu,Honolulu,United States,US,USA,Hawaii,admin,820987,1840013305,1,21.3294,-157.846,HI
+Boise,Boise,United States,US,USA,Idaho,admin,389280,1840027142,1,43.6007,-116.2312,ID
+Chicago,Chicago,United States,US,USA,Illinois,,8604203,1840000494,1,41.8373,-87.6862,IL
+Indianapolis,Indianapolis,United States,US,USA,Indiana,admin,1588961,1840030084,1,39.7771,-86.1458,IN
+Des Moines,Des Moines,United States,US,USA,Iowa,admin,473957,1840007069,1,41.5725,-93.6105,IA
+Wichita,Wichita,United States,US,USA,Kansas,,482249,1840001686,1,37.6896,-97.3442,KS
+Louisville,Louisville,United States,US,USA,Kentucky,,1005654,1840030815,1,38.1663,-85.6485,KY
+New Orleans,New Orleans,United States,US,USA,Louisiana,,1020886,1840001839,1,30.0687,-89.9288,LA
+Portland,Portland,United States,US,USA,Maine,,203969,1840000327,1,43.6773,-70.2715,ME
+Baltimore,Baltimore,United States,US,USA,Maryland,,2106068,1840001592,1,39.3051,-76.6144,MD
+Boston,Boston,United States,US,USA,Massachusetts,admin,4688346,1840000455,1,42.3188,-71.0846,MA
+Detroit,Detroit,United States,US,USA,Michigan,,3506126,1840003971,1,42.3834,-83.1024,MI
+Minneapolis,Minneapolis,United States,US,USA,Minnesota,,2977172,1840007830,1,44.9635,-93.2678,MN
+Jackson,Jackson,United States,US,USA,Mississippi,admin,325350,1840014895,1,32.3163,-90.2124,MS
+St. Louis,St. Louis,United States,US,USA,Missouri,,2024074,1840001651,1,38.6358,-90.2451,MO
+Billings,Billings,United States,US,USA,Montana,,120728,1840018496,1,45.7891,-108.5524,MT
+Omaha,Omaha,United States,US,USA,Nebraska,,847819,1840009315,1,41.2627,-96.0522,NE
+Las Vegas,Las Vegas,United States,US,USA,Nevada,,2104198,1840020364,1,36.2333,-115.2654,BV
+Nashua,Nashua,United States,US,USA,New Hampshire,,233917,1840002984,1,42.7491,-71.491,NH
+Trenton,Trenton,United States,US,USA,New Jersey,admin,290716,1840001383,1,40.2236,-74.7641,NJ
+Albuquerque,Albuquerque,United States,US,USA,New Mexico,,761195,1840019176,1,35.1053,-106.6464,NM
+New York,New York,United States,US,USA,New York,,18713220,1840034016,1,40.6943,-73.9249,NY
+Charlotte,Charlotte,United States,US,USA,North Carolina,,1512923,1840014557,1,35.208,-80.8304,NC
+Fargo,Fargo,United States,US,USA,North Dakota,,208675,1840000177,1,46.8652,-96.8292,ND
+Cleveland,Cleveland,United States,US,USA,Ohio,,1710093,1840000596,1,41.4767,-81.6804,OH
+Oklahoma City,Oklahoma City,United States,US,USA,Oklahoma,admin,972943,1840020428,1,35.4676,-97.5136,OK
+Portland,Portland,United States,US,USA,Oregon,,2074775,1840019941,1,45.5372,-122.65,OR
+Philadelphia,Philadelphia,United States,US,USA,Pennsylvania,,5649300,1840000673,1,40.0077,-75.1339,PA
+Providence,Providence,United States,US,USA,Rhode Island,admin,1203230,1840003289,1,41.823,-71.4187,RI
+Charleston,Charleston,United States,US,USA,South Carolina,,628377,1840015163,1,32.8153,-79.9628,SC
+Sioux Falls,Sioux Falls,United States,US,USA,South Dakota,,187239,1840002648,1,43.5397,-96.732,SD
+Nashville,Nashville,United States,US,USA,Tennessee,admin,1081903,1840036155,1,36.1715,-86.7843,TN
+Dallas,Dallas,United States,US,USA,Texas,,5743938,1840019440,1,32.7936,-96.7662,TX
+Salt Lake City,Salt Lake City,United States,US,USA,Utah,admin,1098526,1840021383,1,40.7777,-111.9306,UT
+Burlington,Burlington,United States,US,USA,Vermont,,109763,1840002310,1,44.4877,-73.2314,VT
+Virginia Beach,Virginia Beach,United States,US,USA,Virginia,,1478868,1840003871,1,36.7335,-76.0435,VA
+Seattle,Seattle,United States,US,USA,Washington,,3789215,1840021117,1,47.6211,-122.3244,WA
+Huntington,Huntington,United States,US,USA,West Virginia,,186034,1840006211,1,38.4109,-82.4344,WV
+Milwaukee,Milwaukee,United States,US,USA,Wisconsin,,1365787,1840003046,1,43.0642,-87.9673,WI
+Cheyenne,Cheyenne,United States,US,USA,Wyoming,admin,79484,1840018713,1,41.1351,-104.79,WY
+Montevideo,Montevideo,Uruguay,UY,URY,Montevideo,primary,1319108,1858107000,1,-34.8667,-56.1667,Uruguay
+Tashkent,Tashkent,Uzbekistan,UZ,UZB,Toshkent,primary,2424100,1860331871,1,41.3,69.2667,Uzbekistan
+Port-Vila,Port-Vila,Vanuatu,VU,VUT,Shefa,primary,51437,1548805075,1,-17.75,168.3,Vanuatu
+Vatican City,Vatican City,Vatican City,VA,VAT,,,825,1336000000,1,41.9,12.4478,Vatican City
+Caracas,Caracas,Venezuela,VE,VEN,Distrito Capital,primary,1943901,1862748204,1,10.5,-66.9333,Venezuela
+Ho Chi Minh City,Ho Chi Minh City,Vietnam,VN,VNM,Hồ Chí Minh,admin,13312000,1704774326,1,10.8167,106.6333,Vietnam
+Leava,Leava,Wallis And Futuna,WF,WLF,Sigave,admin,,1876731744,1,-14.2933,-178.1583,Wallis And Futuna
+Al Quds,Al Quds,West Bank,XW,XWB,,primary,,1934000006,1,31.7764,35.2269,West Bank
+Sanaa,Sanaa,Yemen,YE,YEM,Amānat al ‘Āşimah,primary,2957000,1887750814,1,15.35,44.2,Yemen
+Lusaka,Lusaka,Zambia,ZM,ZMB,Lusaka,primary,1742979,1894157390,1,-15.4167,28.2833,Zambia
+Harare,Harare,Zimbabwe,ZW,ZWE,Harare,primary,1606000,1716196799,1,-17.8292,31.0522,Zimbabwe
