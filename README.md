@@ -1,6 +1,6 @@
 # migrationpaths
 
-Author: Victor Zitian Chen (UNC Charlotte; GoPeaks)
+Author: Victor Zitian Chen (UNC Charlotte; GoPeaks) www.GoPeaks.org
 
 This repo shows Plotly coding for an interactive map showing migration paths.
 
