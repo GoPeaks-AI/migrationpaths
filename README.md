@@ -2,7 +2,7 @@
 
 Author: Victor Zitian Chen (UNC Charlotte; GoPeaks) www.GoPeaks.org
 
-This repo shows Plotly coding for an interactive map showing migration paths.
+This repo shows Plotly coding for an interactive map of migration paths.
 
 To run this migration path, users need to:
 1. select a subset from the world cities table with location names (e.g., cities, states, countries, etc.) and their longitudes and latidudes.
