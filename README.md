@@ -10,3 +10,7 @@ To run this migration path, users need to:
 3. install Python Plotly and Pandas packages, and run the Jupyter notebook. Remember to change the drive path to your local drive.
 
 https://user-images.githubusercontent.com/59463770/116264658-79548c00-a748-11eb-851e-ee14783c145f.mp4
+
+References：
+[1] World cities https://simplemaps.com/data/world-cities
+[2] Plotly maps https://plotly.com/python/maps/
